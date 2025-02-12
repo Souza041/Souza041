@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, i'm Dhionatas Souza 👋
 
 - 🔭 I’m currently working on infrastructure and systems development
 - 🌱 I’m currently learning systems analysis and development
