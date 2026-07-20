@@ -148,6 +148,96 @@ I am currently strengthening my experience in:
 
 ---
 
+## GitHub Overview
+
+<div align="center">
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Souza041&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Souza041&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=true"
+    media="(prefers-color-scheme: light)"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=Souza041&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true"
+    alt="Dhionatas Souza GitHub statistics"
+  />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Souza041&layout=compact&hide_border=true&theme=github_dark&langs_count=8"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Souza041&layout=compact&hide_border=true&theme=default&langs_count=8"
+    media="(prefers-color-scheme: light)"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souza041&layout=compact&hide_border=true&theme=transparent&langs_count=8"
+    alt="Most used languages"
+  />
+</picture>
+
+<br /><br />
+
+<img
+  src="https://streak-stats.demolab.com?user=Souza041&theme=github-dark-blue&hide_border=true&background=00000000"
+  alt="GitHub contribution streak"
+/>
+
+<br /><br />
+
+<img
+  src="https://komarev.com/ghpvc/?username=Souza041&label=Profile%20views&color=22c55e&style=flat-square"
+  alt="Profile visitor counter"
+/>
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Souza041&bg_color=00000000&color=22c55e&line=22c55e&point=ffffff&area=true&hide_border=true"
+  alt="GitHub contribution activity graph"
+/>
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Souza041/Souza041/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Souza041/Souza041/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/Souza041/Souza041/output/github-contribution-grid-snake.svg"
+    alt="Snake animation showing GitHub contributions"
+  />
+</picture>
+
+</div>
+
+---
+
 ## Connect
 
 <div align="center">
@@ -166,11 +256,3 @@ business automation, infrastructure, and practical technology products.
 **Building software that turns complex operations into practical solutions.**
 
 </div>
-
-<!--
-Next profile upgrade:
-- Add a custom Nexus-inspired banner
-- Add GitHub statistics with a consistent visual theme
-- Add the redesigned contribution snake
-- Add public case-study repositories
--->
