@@ -207,7 +207,7 @@ I am currently strengthening my experience in:
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Souza041&bg_color=0d1117&color=22c55e&line=22c55e&point=ffffff&area=true&area_color=22c55e&hide_border=true"
+  src="https://activity.nexusplatform.app.br/graph?username=Souza041&bg_color=0d1117&color=22c55e&line=22c55e&point=ffffff&area=true&area_color=22c55e&hide_border=true"
   alt="GitHub contribution activity graph"
 />
 
